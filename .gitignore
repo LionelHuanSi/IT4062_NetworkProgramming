@@ -1,0 +1,16 @@
+# Compiled binaries and objects
+*.o
+*.exe
+main
+*.out
+
+# Generated log files
+Week 1/log_*.txt
+
+# Archive files
+*.zip
+
+# Editor and OS
+.vscode/
+Thumbs.db
+.DS_Store

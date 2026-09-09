@@ -1,0 +1,5 @@
+huannv 1
+quydn 1
+vietqp 0
+bnhi 1
+thinhnd 0
