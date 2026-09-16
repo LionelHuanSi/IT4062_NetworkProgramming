@@ -2,7 +2,9 @@
 *.o
 *.exe
 main
+resolver
 *.out
+
 
 # Generated log files
 Week 1/log_*.txt
