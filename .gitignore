@@ -3,7 +3,10 @@
 *.exe
 main
 resolver
+server
+client
 *.out
+
 
 
 # Generated log files
