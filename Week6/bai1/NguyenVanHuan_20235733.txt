@@ -1,0 +1,6 @@
+Ho va ten: Nguyen Van Huan
+MSSV: 20235733
+Lop: IT4062 - Lap trinh mang
+Bai tap tuan 6: Ung dung truyen file ma hoa va giai ma Caesar qua TCP socket da luong (Multi-threading).
+Thuat toan: Caesar Cipher with key shift k.
+Dai hoc Bach khoa Ha Noi - 2026.
