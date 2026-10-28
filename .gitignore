@@ -15,6 +15,16 @@ Week 1/log_*.txt
 # Archive files
 *.zip
 
+# Temporary storage files and test outputs
+*/storage/
+downloaded_*
+server_storage/
+*.tmp
+*.avi
+client *
+server *
+testfile*
+
 # Editor and OS
 .vscode/
 Thumbs.db
